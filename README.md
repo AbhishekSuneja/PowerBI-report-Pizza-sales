@@ -11,3 +11,7 @@ Unlock the secrets of pizza sales with our comprehensive data analysis project. 
 1- Target Promotions and Staffing: Focus on promotions and adjust staffing levels during peak sales periods to maximize revenue and efficiency.
 
 2-Menu Optimization: Prioritize popular items and sizes, and consider revising or removing underperforming pizzas to streamline the menu and cut costs.
+![Screenshot (177)](https://github.com/AbhishekSuneja/PowerBI-report-Pizza-sales/assets/136248049/102a408b-19ba-4a4d-91eb-655486e86df9)
+![Screenshot (182)](https://github.com/AbhishekSuneja/PowerBI-report-Pizza-sales/assets/136248049/daa9058c-6db6-40e4-808c-d617addb8fda)
+
+
